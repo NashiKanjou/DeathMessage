@@ -1,0 +1,12 @@
+main: nashi.deathmessage.Main
+api-version: 1.16
+name: DeathMessage
+version: '1.0'
+description: DeathMessage
+author: Nashi
+softdepend:
+- CMI
+commands:
+  dm:
+    description: base command
+    usage: /dm
